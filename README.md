@@ -1,5 +1,4 @@
 # brownbag
 # checking alias 
 # checking amend 
-# checking revert 
-# stash 2 
+# checking revert stash
